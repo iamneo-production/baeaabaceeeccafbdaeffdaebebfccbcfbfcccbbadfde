@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "rm -rf node_modules && npm i && node server.js", 
+    "start": "rm -rf node_modules && npm i && node server.js",
     "test": "cd puppeteer && node test.js"
   },
   "author": "",
